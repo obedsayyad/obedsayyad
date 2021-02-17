@@ -5,7 +5,7 @@
 <!-- - 👯 I’m looking to collaborate on any JavaScript Project -->
 <!-- - 🔭 I’m currently working on ... -->
 
-- 🌱 Software Developer at <code><img height="20" src="https://avatars.githubusercontent.com/u/64545718?s=200&v=4"></code> **[`DevelentCorp.`](https://www.develentcorp.com)**
+- 🌱 Software Developer at <code><img height="20" src="https://avatars.githubusercontent.com/u/64545718?s=200&v=4"><**[`DevelentCorp.`](https://www.develentcorp.com)**/code> 
 - 💬 Ask me about **JavaScript, Django, Python, && MERN Stack**
 - 📫 Reach out to me at **[`obedsayyad123@gmail.com`](mailto:obedsayyad123@gmail.com.com)**
 <!-- - 🤔 I’m looking for help with ... -->
