@@ -6,7 +6,7 @@
 <!-- - 🔭 I’m currently working on ... -->
 
 - 🌱 Software Developer at <code><img height="20" src="https://avatars.githubusercontent.com/u/64545718?s=200&v=4"></code>**[`DevelentCorp.`](https://www.develentcorp.com)**  
-- 💬 Ask me about **JavaScript, Django, Python, && MERN Stack**
+- 💬 Ask me about **JavaScript,Python,Freeradius,&& MERN Stack**
 - 📫 Reach out to me at **[`obedsayyad123@gmail.com`](mailto:obedsayyad123@gmail.com.com)**
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ...
@@ -19,6 +19,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4"></code> 
+<code><img height="20" src="https://avatars.githubusercontent.com/u/2430370?s=200&v=4"></code> 
 
 
 
