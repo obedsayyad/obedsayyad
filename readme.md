@@ -5,10 +5,9 @@
 <!-- - 👯 I’m looking to collaborate on any JavaScript Project -->
 <!-- - 🔭 I’m currently working on ... -->
 
-- 🌱 Software Developer at <code><img height="20" src="https://avatars.githubusercontent.com/u/64545718?s=200&v=4"></code> **[`DevelentCorp.`](mailto:obedsayyad123@gmail.com.com)**
+- 🌱 Software Developer at <code><img height="20" src="https://avatars.githubusercontent.com/u/64545718?s=200&v=4"></code> **[`DevelentCorp.`](https://www.develentcorp.com)**
 - 💬 Ask me about **JavaScript, Django, Python, && MERN Stack**
-- 📫 Reach out to me at **[`obedsayyad123@gmail.com`](https://www.develentcorp.com)**
-
+- 📫 Reach out to me at **[`obedsayyad123@gmail.com`](mailto:obedsayyad123@gmail.com.com)**
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  - 💼 See my full portfolio at **[`.com`](https://.com)** -->
