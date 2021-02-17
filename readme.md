@@ -18,7 +18,7 @@
 <details>
   <summary>GitHub Stats</summary>
 
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=obedsayyad123&show_icons=true& theme=radical&hide_border=true" />
+  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=obedsayyad123&show_icons=true&theme=radical&hide_border=true" />
 
 </details>
 </div>
