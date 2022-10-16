@@ -25,19 +25,12 @@
 
 
 
-<div>
-<details>
-  <summary>GitHub Stats</summary>
 
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=obedsayyad&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</details>
-</div>
 <!-- - 
 <div>
 <details>
   <summary>GitHub History</summary>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drakosi99&" alt="drakosi99" /></p>
+  <p><img align="center" src="/?user=&" alt="" /></p>
 .
 </details>
 </div>
