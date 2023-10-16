@@ -8,7 +8,7 @@
 - 🌱 Software Developer at <code><img height="20" src="https://avatars.githubusercontent.com/u/64545718?s=200&v=4"></code>**[`DevelentCorp.`](https://www.develentcorp.com)**  
 - 💬 Ask me about **JavaScript, Python, Freeradius, && MERN Stack**
 - 📫 Reach out to me at **[`obedsayyad123@gmail.com`](mailto:obedsayyad123@gmail.com.com)**
-<!-- - 🤔 I’m looking for help with ... -->
+- 😛 I keep my Repo's Private 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  - 💼 See my full portfolio at **[`.com`](https://.com)** -->
 <br>
