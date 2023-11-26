@@ -9,7 +9,7 @@
 - 💬 Ask me about **JavaScript, Python, Freeradius, && MERN Stack**
 - 📫 Reach out to me at **[`obedsayyad123@gmail.com`](mailto:obedsayyad123@gmail.com.com)**
 - 😛 I keep my Repo's Private 
-[![Visits Badge](https://badges.pufler.dev/visits/jdromero88/jdromero88)](https://josedromero.com)
+[![Visits Badge](https://badges.pufler.dev/visits/obedsayyad/obedsayyad)](https://obedsayyad.github.io)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  - 💼 See my full portfolio at **[`.com`](https://.com)** -->
 <br>
