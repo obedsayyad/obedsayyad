@@ -22,9 +22,9 @@
 <code><img height="20" src="https://avatars.githubusercontent.com/u/2430370?s=200&v=4"></code> 
  <!-- - 🔭 OBED SAYYAD README -->
 
-<div>
+
 [![Visits Badge](https://badges.pufler.dev/visits/obedsayyad/obedsayyad)](https://obedsayyad.github.io)
-</div>
+
 
 <div>
 <details>
