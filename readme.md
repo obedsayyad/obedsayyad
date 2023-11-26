@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=FFFF00&center=true&vCenter=true&random=false&width=435&lines=I'm+Obed+%F0%9F%91%8B;Full+Stack+web+developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Ui%2FUx+Designer+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%A8;" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=E8BD10&center=true&vCenter=true&random=false&width=435&lines=I'm+Obed+%F0%9F%91%8B;Full+Stack+web+developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Ui%2FUx+Designer+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%A8;" alt="Typing SVG" /></a></p>
 
 - 🌱 Software Developer at <code><img height="20" src="https://avatars.githubusercontent.com/u/64545718?s=200&v=4"></code>**[`DevelentCorp.`](https://www.develentcorp.com)**  
 - 💬 Ask me about **JavaScript, Python, Freeradius, && MERN Stack**
