@@ -23,7 +23,7 @@
  <!-- - 🔭 OBED SAYYAD README -->
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/obedsayyad/obedsayyad)](https://obedsayyad.github.io)
+[![Visits Badge](https://badges.pufler.dev/visits/obedsayyad)](https://obedsayyad.github.io)
 
 
 <div>
