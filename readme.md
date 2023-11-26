@@ -22,8 +22,8 @@
 <code><img height="20" src="https://avatars.githubusercontent.com/u/2430370?s=200&v=4"></code> 
  <!-- - 🔭 OBED SAYYAD README -->
 
-
-[![Visits Badge](https://badges.pufler.dev/visits/obedsayyad)](https://obedsayyad.github.io)
+<span class="likebtn-wrapper" data-theme="custom" data-icon_d="hrt2" data-icon_l_c="#ffffff" data-icon_l_c_v="#794cfc" data-icon_d_c="#ffffff" data-icon_d_c_v="#794cfc" data-bg_c="#fed800" data-brdr_c="#ffffff" data-f_family="Comic Sans MS" data-white_label="true" data-rich_snippet="true" data-identifier="item_1"></span>
+<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
 
 
 <div>
