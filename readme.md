@@ -12,14 +12,13 @@
 <br>
 
 **Languages and Tools:**  
-![](https://vbr.wocr.tk/badge?page_id=obedsayyad&color=55acb7&style=for-the-badge&logo=Github)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4"></code> 
 <code><img height="20" src="https://avatars.githubusercontent.com/u/2430370?s=200&v=4"></code> 
  <!-- - 🔭 OBED SAYYAD README -->
-
+![](https://vbr.wocr.tk/badge?page_id=obedsayyad&color=55acb7&style=for-the-badge&logo=Github)
 <div>
 <details>
 <summary>Most Used Languages</summary>
