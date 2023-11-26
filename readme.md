@@ -9,7 +9,6 @@
 - 💬 Ask me about **JavaScript, Python, Freeradius, && MERN Stack**
 - 📫 Reach out to me at **[`obedsayyad123@gmail.com`](mailto:obedsayyad123@gmail.com.com)**
 - 😛 I keep my Repo's Private 
-[![Visits Badge](https://badges.pufler.dev/visits/obedsayyad/obedsayyad)](https://obedsayyad.github.io)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  - 💼 See my full portfolio at **[`.com`](https://.com)** -->
 <br>
@@ -27,22 +26,17 @@
 
 
 
-<!-- - 
+
 <div>
 <details>
-  <summary>GitHub History</summary>
-  <p><img align="center" src="/?user=&" alt="" /></p>
-.
+[![Visits Badge](https://badges.pufler.dev/visits/obedsayyad/obedsayyad)](https://obedsayyad.github.io)
 </details>
 </div>
--->
+
 
 <div>
 <details>
-  <summary>Most Used Languages</summary>
-
+<summary>Most Used Languages</summary>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=obedsayyad&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="obedsayyad" /></p>
-
-
 </details>
 </div>
