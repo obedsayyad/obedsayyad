@@ -18,7 +18,9 @@
 <code><img height="20" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4"></code> 
 <code><img height="20" src="https://avatars.githubusercontent.com/u/2430370?s=200&v=4"></code> 
  <!-- - 🔭 OBED SAYYAD README -->
-![](https://vbr.wocr.tk/badge?page_id=obedsayyad&color=0000FF&style=for-the-badge&logo=Github)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=obedsayyad&label=Profile%20Views&pretty=false" />
+</a>
 <div>
 <details>
 <summary>Most Used Languages</summary>
