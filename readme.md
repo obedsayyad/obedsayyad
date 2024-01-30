@@ -10,6 +10,9 @@
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  - 💼 See my full portfolio at **[`.com`](https://.com)** -->
 <br>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=obedsayyad&label=Profile%20Views&color=6&pretty=false" />
+</a>
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -18,10 +21,6 @@
 <code><img height="20" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4"></code> 
 <code><img height="20" src="https://avatars.githubusercontent.com/u/2430370?s=200&v=4"></code> 
  <!-- - 🔭 OBED SAYYAD README -->
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=obedsayyad&label=Profile%20Views&pretty=false" />
-</a>
-<div>
 <details>
 <summary>Most Used Languages</summary>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=obedsayyad&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="obedsayyad" /></p>
