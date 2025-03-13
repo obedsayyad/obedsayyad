@@ -10,9 +10,9 @@
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  - 💼 See my full portfolio at **[`.com`](https://.com)** -->
 <br>
-<a href="https://visitcount.itsvg.in">
+<!-- <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=obedsayyad&label=Profile%20Views&color=6&pretty=false" />
-</a>
+</a> -->
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
