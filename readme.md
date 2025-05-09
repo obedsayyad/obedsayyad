@@ -14,17 +14,17 @@
   <img src="https://visitcount.itsvg.in/api?id=obedsayyad&label=Profile%20Views&color=6&pretty=false" />
 </a> -->
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+ <!-- - 🔭 OBED SAYYAD README -->
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4"></code> 
 <code><img height="20" src="https://avatars.githubusercontent.com/u/2430370?s=200&v=4"></code> 
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
- <!-- - 🔭 OBED SAYYAD README -->
 <details>
+
 <summary>Most Used Languages</summary>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=obedsayyad&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="obedsayyad" /></p>
 </details>
