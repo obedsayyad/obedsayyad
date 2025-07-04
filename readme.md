@@ -6,7 +6,7 @@
   </a>
 </p>
 
-- 🌱 Software Developer at <img height="5" width="5" src="https://avatars.githubusercontent.com/u/64545718?s=200&v=4" alt="DevelentCorp logo"> **[`DevelentCorp.`](https://www.develentcorp.com)**
+- 🌱 Software Developer at <img height="15" width="15" src="https://avatars.githubusercontent.com/u/64545718?s=200&v=4" alt="DevelentCorp logo"> **[`DevelentCorp.`](https://www.develentcorp.com)**
 - 💬 Ask me about **JavaScript, Python, Freeradius, & MERN Stack**
 - 📫 Reach out to me at **[`obedsayyad123@gmail.com`](mailto:obedsayyad123@gmail.com)**
 - 🔐 I keep my repos private — but they’re 🔥
