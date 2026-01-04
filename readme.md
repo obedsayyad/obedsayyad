@@ -13,3 +13,6 @@
 <p align="left">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obedsayyad&theme=dark"  display=block width=60% height=auto alt="1">
 </P> 
+---
+[![](https://visitcount.itsvg.in/api?id=obedsayyad&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=obedsayyad&label=Profile%20views&color=0000cc&style=flat)
