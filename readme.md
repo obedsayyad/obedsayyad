@@ -10,3 +10,6 @@
 - 💬 Ask me about **JavaScript, Python, Freeradius, & MERN Stack**
 - 📫 Reach out to me at **[`obedsayyad123@gmail.com`](mailto:obedsayyad123@gmail.com)**
 - 🔐 I keep my repos private — but they’re 🔥
+<p align="left">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obedsayyad&theme=solarized_dark"  display=block width=60% height=auto alt="1">
+</P> 
