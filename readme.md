@@ -6,7 +6,7 @@
   </a>
 </p>
 
-- 🌱 Software Developer at DevelentCorp.
+- 🌱 Engineering Software at DevelentCorp.
 - 💬 Ask me about **JavaScript, Python, Freeradius, & MERN Stack**
 - 📫 Reach out to me at **[`obedsayyad123@gmail.com`](mailto:obedsayyad123@gmail.com)**
 - 🔐 I keep my repos private — but they’re 🔥
